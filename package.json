@@ -1,0 +1,27 @@
+{
+  "name": "klondike",
+  "version": "1.0.0",
+  "description": "\"Travel Website and REST service using Node, Express and Mongodb\"",
+  "main": "klondike.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G12/Klondike.git"
+  },
+  "keywords": [
+    "Travel",
+    "Yukon"
+  ],
+  "author": "Thomas Wiegand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G12/Klondike/issues"
+  },
+  "homepage": "https://github.com/G12/Klondike#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
